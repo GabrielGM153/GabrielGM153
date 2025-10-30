@@ -29,6 +29,19 @@ Here are some of the technologies and tools I have experience with:
 
 ---
 
+### 📊 My GitHub Stats
+
+*(These images are automatically generated and self-updating)*
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielGM153&show_icons=true&theme=tokyonight&locale=en" alt="Gabriel's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGM153&layout=compact&theme=tokyonight&locale=en" alt="Gabriel's Top Languages" />
+</p>
+
+---
+
 ### 🚀 Featured Projects
 
 Here's a selection of projects you can find in my portfolio:
