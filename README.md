@@ -9,13 +9,6 @@ I have a multidisciplinary background, and in both areas of study, I have had to
 
 <img width="931" height="1024" alt="Gemini_Generated_Image_9qr1rh9qr1rh9qr1" src="https://github.com/user-attachments/assets/285b09fd-0793-4a5b-b30a-6c930dd4109a" />
 
-As an economist, I believe that the intersection between data science and data analysis is broad and represents a highly useful degree of quantitative specialization for the business sector. Following that idea, I developed an animation using Python (as an educational project in Spanish) that broadly explains the Leontief model. This model employs matrix algebra in analytical terms, and from it, very interesting simulations can be carried out.
-
-https://github.com/user-attachments/assets/a3ed7581-352f-4b0d-9267-2b92f126d08b
-
-
-
-
 ---
 
 ### 💻 My Tech Stack
