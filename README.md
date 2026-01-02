@@ -4,8 +4,21 @@
 
 ## About me: 
 
-I am an economist, and I consider it a highly versatile field both theoretically and empirically, due to the extensive application of mathematics in this discipline, whether through mathematical or probabilistic models. In general, I enjoy technology and staying constantly up to date, as this is highly enriching both personally and professionally.
-I have a multidisciplinary background, and in both areas of study, I have had to develop structured thinking oriented toward problem-solving and analysis. For this reason, I directed these two elements toward data analysis and data science. 
+Hi, I’m Gabriel, a Behavioral Economist and Data Scientist passionate about turning complex data into insights that actually help people and organizations make better decisions.
+My background combines Economics, Psychology, and Data Science, which allows me to approach problems from both a quantitative and human-centered perspective. I enjoy working at the intersection of these fields—where numbers meet behavior, and where data can explain not only what is happening, but why.
+
+I’ve worked on projects involving:
+- Economic and financial analysis using cash‑flow modeling, NPV, IRR, and risk & uncertainty evaluation.
+- Machine learning and econometrics to model scenarios, forecast outcomes, and analyze market dynamics.
+- Behavioral insights to understand cognitive biases, decision heuristics, and patterns in human behavior.
+- Business intelligence through dashboards and automated reporting that support strategic planning and resource allocation.
+I’m especially interested in how data science can enrich different fields:
+- In economics, I use clustering, forecasting models, and sensitivity analysis to evaluate investment projects, understand sector dynamics, and support evidence‑based policy or business decisions.
+- In psychology, I apply NLP, classification models, and behavioral data analysis to explore decision‑making patterns, detect biases, and design more realistic models of human behavior.
+  
+I believe that combining rigorous analytics with behavioral understanding leads to more accurate models, better strategies, and ultimately more meaningful impact.
+If you’re curious about my work, feel free to explore my repositories—most of my projects reflect this blend of technical depth, economic reasoning, and behavioral insight.
+
 
 <img width="931" height="1024" alt="Gemini_Generated_Image_9qr1rh9qr1rh9qr1" src="https://github.com/user-attachments/assets/285b09fd-0793-4a5b-b30a-6c930dd4109a" />
 
