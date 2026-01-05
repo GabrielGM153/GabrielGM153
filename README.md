@@ -4,7 +4,7 @@
 
 ## About me: 
 
-Hi, I’m a Behavioral Economist and Data Scientist passionate about turning complex data into insights that actually help people and organizations make better decisions.
+I’m a Behavioral Economist and Data Scientist passionate about turning complex data into insights that actually help people and organizations make better decisions.
 My background combines Economics, Psychology, and Data Science, which allows me to approach problems from both a quantitative and human-centered perspective. I enjoy working at the intersection of these fields—where numbers meet behavior, and where data can explain not only what is happening, but why.
 
 I’ve worked on projects involving:
