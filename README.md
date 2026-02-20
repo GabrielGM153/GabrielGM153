@@ -64,20 +64,19 @@ Here's a selection of projects you can find in my portfolio:
 
 * 📊 **Time Series Analysis (Educational project)**
     * In this project, I applied economic theory to analyze the supply and demand of a service using time series.
-    * `[View Project](https://github.com/GabrielGM153/TripleTen-Projects/blob/main/Proyecto_sprint15_series%20de%20tiempo.ipynb)`
+    * [View Project](https://github.com/GabrielGM153/TripleTen-Projects/blob/main/Proyecto_sprint15_series%20de%20tiempo.ipynb)
 
 * 📈 **Financial Market Efficiency (Research project)**
     * Comparative analysis of the Mexican financial market using Econometric Models (ARIMA) vs. Machine Learning and Neural Networks.
-    * `[View Project](https://github.com/GabrielGM153/TripleTen-Projects/blob/main/Proyecto_sprint15_series%20de%20tiempo.ipynb)`
+    * [View Project](https://github.com/GabrielGM153/TripleTen-Projects/blob/main/Proyecto_sprint13_eficiencia_mercado.ipynb)
 
 * 🎯 **Applied Probability for Customer Retention (Educational project)**
     * Predictive modeling using Random Forest and Logistic Regression to identify customer retention patterns.
-    * `[View Project](https://interconnect-servicesdashboard-vghbvwicamwefwhvaalykg.streamlit.app/)`
+    * [View Project](https://interconnect-servicesdashboard-vghbvwicamwefwhvaalykg.streamlit.app/)
 
 * 👾 **Statistical Analysis of Video Game Consumption (Educational project)**
     * Application of statistics and economic theory to understand the evolution of consumption in the video game industry.
-    * `[View Project](https://github.com/GabrielGM153/TripleTen-Projects/blob/main/Gabriel_GM_Proyecto_Sprint6.ipynb)`
-
+    * [View Project](https://github.com/GabrielGM153/TripleTen-Projects/blob/main/Gabriel_GM_Proyecto_Sprint6.ipynb)
 <br>
 
 
