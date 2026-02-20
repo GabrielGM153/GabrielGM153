@@ -1,4 +1,4 @@
-### Hello there! I'm Gabriel GM 
+### Hello there! I'm Gabriel 
 
 ## - 🖥️ 🤖 Data Scientist | Economist| BI Developer 📈 🧠🔍
 
