@@ -4,8 +4,11 @@
 
 ## About me: 
 
-I’m a Behavioral Economist and Data Scientist passionate about turning complex data into insights that actually help people and organizations make better decisions.
-My background combines Economics, Psychology, and Data Science, which allows me to approach problems from both a quantitative and human-centered perspective. I enjoy working at the intersection of these fields—where numbers meet behavior, and where data can explain not only what is happening, but why.
+I am an economist with a strong passion for technology and data. Driven by this enthusiasm, I have sought ways to blend economic and financial theory with contemporary analytical tools. In my pursuit, I have worked with platforms such as Power BI, Python for data analysis and data science, Excel—including Power Pivot and Power Query—SQL, Tableau, and other modern technologies. These tools have enabled me to approach economic questions in innovative ways, leveraging the power of data to enhance analysis and insights.
+
+As economists, our work often extends beyond pure economic theory. We engage in research that covers a wide range of topics, including politics, human behavior, and economic growth. A significant part of our profession involves analyzing prices to forecast values, demand, and supply, always linking our findings back to economic theory. This analytical mindset allows us to integrate business intelligence with economic and financial theory seamlessly.
+I am firmly convinced that the very nature of economists equips us to excel as data scientists and business intelligence developers. The mathematical thinking and econometric methods we routinely apply in our professional field provide a strong foundation for these roles. By merging our expertise in economics with modern data tools, we continue to push the boundaries of research and analysis.
+
 
 I’ve worked on projects involving:
 - Economic and financial analysis using cash‑flow modeling, NPV, IRR, and risk & uncertainty evaluation.
@@ -14,8 +17,7 @@ I’ve worked on projects involving:
 - Business intelligence through dashboards and automated reporting that support strategic planning and resource allocation.
 I’m especially interested in how data science can enrich different fields:
 - In economics, I use clustering, forecasting models, and sensitivity analysis to evaluate investment projects, understand sector dynamics, and support evidence‑based policy or business decisions.
-- In psychology, I apply NLP, classification models, and behavioral data analysis to explore decision‑making patterns, detect biases, and design more realistic models of human behavior.
-  
+
 I believe that combining rigorous analytics with behavioral understanding leads to more accurate models, better strategies, and ultimately more meaningful impact.
 If you’re curious about my work, feel free to explore my repositories—most of my projects reflect this blend of technical depth, economic reasoning, and behavioral insight.
 
